@@ -1,4 +1,3 @@
-# social-media-addiction-case-study
 # Social Media Addiction Among Students – A Data-Driven Study
 
 ## Overview
